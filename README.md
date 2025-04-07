@@ -14,7 +14,7 @@ A modern, feature-rich e-commerce platform built with Node.js, Express, and Mong
 - Smart product recommendations
 - Natural language search capabilities
 - Sentiment analysis for customer feedback
-- Feature Extraction
+- Feature Extraction models
 - Automated customer support
 
 ### 📊 Analytics Dashboard
