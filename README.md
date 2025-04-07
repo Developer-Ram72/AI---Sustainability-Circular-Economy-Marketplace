@@ -34,14 +34,17 @@ A modern, feature-rich e-commerce platform built with Node.js, Express, and Mong
 ### Prerequisites
 - Node.js (v14 or higher)
 - MongoDB
-- XAMPP (for local development)
+- VScode
+- Tuned AI Models
+- All API Keys
 
 ### Environment Setup
 1. Clone the repository
-2. Install dependencies: `npm install`
-3. Configure environment variables (see `.env.example`)
-4. Start MongoDB service
-5. Run the application: `npm start`
+2. Load Models
+3. Create DB in MONGO_DB
+4. LOAD API's in .env
+5. Start MongoDB service
+6. Run the application
 
 ### Configuration
 Create a `.env` file with the following:
@@ -70,23 +73,6 @@ haackntym/
 - **Frontend**: HTML5, CSS3, JavaScript
 - **Security**: AES-256-GCM encryption
 - **Real-time**: WebSocket
-
-## 🔑 API Endpoints
-
-### Products
-- `GET /api/products` - List products
-- `GET /api/products/:id` - Get product details
-
-### Orders
-- `POST /api/orders/create` - Create order
-- `GET /api/orders` - List orders
-
-### Cart
-- `POST /api/cart/sync` - Sync cart
-- `GET /api/cart` - Get cart contents
-
-### Analytics
-- `GET /api/analytics/dashboard` - Get dashboard metrics
 
 ## 🤝 Contributing
 
