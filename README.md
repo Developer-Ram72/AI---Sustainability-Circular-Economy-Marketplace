@@ -95,27 +95,8 @@ haackntym/
 4. Push to the branch
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🔗 Links
 
-- Documentation: [Link to docs]
-- Issue Tracker: [Link to issues]
-- Release Notes: [Link to releases]
+- Video documentation: [Link to docs]
 
-## 👥 Team
-
-- Product Manager: [Name]
-- Lead Developer: [Name]
-- AI Specialist: [Name]
-- UX Designer: [Name]
-
-## 📞 Support
-
-For support queries, contact: support@example.com
-
----
-
-Made with ❤️ by Your Team Name
