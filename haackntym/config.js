@@ -1,20 +1,20 @@
 module.exports = {
     mongodb: {
-        uri: 'mongodb+srv://cluster0.example.mongodb.net',
+        uri: '***Key***',
         options: {
             retryWrites: true,
             w: 'majority'
         }
     },
     llama: {
-        apiKey: 'llm_sk_xxxxxxxxxxxx',
+        apiKey: '***Key***',
         models: {
             chat: 'llama-13b',
             completion: 'llama-7b'
         }
     },
     analytics: {
-        id: 'G-XXXXXXXXXX',
+        id: 'G-Id***',
         region: 'asia-south1'
     },
     storage: {
